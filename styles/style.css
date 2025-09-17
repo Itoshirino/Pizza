@@ -16,14 +16,11 @@ li {
 }
 
 body {
-    margin: 0;
-    padding: 0;
     background: linear-gradient(245.71deg, #1E0C00 4.96%, #1F0700 33.7%, #170A00 68.41%, #1E0D00 96.42%);
 }
 
 .wrapper {
     width: 100%;
-    height: 500vh;
     background: linear-gradient(245.71deg, #1E0C00 4.96%, #1F0700 33.7%, #170A00 68.41%, #1E0D00 96.42%);
     position: relative;
     top: 0;
